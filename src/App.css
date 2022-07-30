@@ -1,0 +1,10 @@
+:root {
+  --black: #000000;
+  --purpleDino: #dc1fff;
+  --oceanBlue: #03e1ff;
+  --surgeGreen: #00ffa3;
+}
+
+* {
+  background-color: var(--black);
+}
